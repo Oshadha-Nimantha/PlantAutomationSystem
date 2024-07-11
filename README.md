@@ -24,25 +24,6 @@ This Arduino-based project automates plant watering and environmental control ba
 - Keypad
 
 
-## Installation
-
-1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/your-username/PlantAutomationSystem.git
-    cd PlantAutomationSystem
-    ```
-
-2. **Install Required Libraries**:
-    - DHT sensor library
-    - LiquidCrystal_I2C library
-    - Keypad library
-    - IRremote library
-
-3. **Upload the Code**:
-    - Open `PlantAutomationSystem.ino` in the Arduino IDE.
-    - Select your Arduino board and port.
-    - Click on **Upload**.
-
 ## Usage
 
 1. **Select Plant Type**:
