@@ -39,7 +39,7 @@ This Arduino-based project automates plant watering and environmental control ba
 
 ## Contributing
 
-Feel free to fork this repository, make changes, and submit pull requests. Contributions are welcome!
+This is a private project.
 
 ## Acknowledgments
 
