@@ -23,9 +23,6 @@ This Arduino-based project automates plant watering and environmental control ba
 - I2C LCD display
 - Keypad
 
-## Schematic
-
-(Include a schematic diagram of your circuit here)
 
 ## Installation
 
