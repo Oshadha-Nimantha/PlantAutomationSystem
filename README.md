@@ -1,6 +1,6 @@
 # Plant Automation System
 
-This Arduino-based project automates plant watering and environmental control based on user-selected plant types. The system monitors temperature, humidity, soil moisture, light levels, and distinguishes between natural and artificial light using an IR sensor. It controls a fan and a servo motor for watering, providing optimal conditions for different types of plants.
+This Arduino-based project automates plant watering and environmental control based on user-selected plant types. The system monitors temperature, humidity, soil moisture. It controls a servo motor for watering, providing optimal conditions for different types of plants.
 
 ## Features
 
